@@ -3,7 +3,7 @@
 
 
 # 解析データ
-* [オルソモザイク GeoTIFF](https://drive.google.com/file/d/1RD3CN3Q7FrLugZdplTNNGlDJyM8Pmx2c/view?usp=sharing)
+* [オルソモザイク GeoTIFF(9GB)](https://drive.google.com/file/d/1RD3CN3Q7FrLugZdplTNNGlDJyM8Pmx2c/view?usp=sharing)
   * [ワールドファイル](https://drive.google.com/file/d/1qbN3uD2s5w0D-6yQLtWOpE1u8teuVYoR/view?usp=sharing)
   * [KML](https://drive.google.com/file/d/1IAAVvLenpRUYQ1gsDFE2KuwempWB5e_O/view?usp=sharing)
 
